@@ -87,3 +87,6 @@ sh questionnaire.sh
 bash questionnaire.sh
 which bash
 nano questionnaire.sh
+__vsc_prompt_cmd_original
+clear
+./questionnaire.sh
