@@ -99,3 +99,7 @@ ls --color=auto -l
 nano questionnaire.sh
 ./questionnaire.sh
 nano questionnaire.sh
+clear
+QUESTION1="What's your name?"
+QUESTION1="What's your name?"
+nano questionnaire.sh
