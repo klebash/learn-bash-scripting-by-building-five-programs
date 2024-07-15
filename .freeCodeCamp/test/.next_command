@@ -133,3 +133,6 @@ clear
 ./questionnaire.sh
 nano questionnaire.sh
 ./questionnaire.sh
+touch coutdown.sh
+ls --color=auto
+touch countdown.sh
