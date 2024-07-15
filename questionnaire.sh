@@ -5,3 +5,4 @@ echo $QUESTION1
 read NAME
 echo Hello $NAME.
 echo $QUESTION2
+read LOCATION
