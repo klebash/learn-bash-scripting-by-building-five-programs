@@ -310,3 +310,6 @@ clear
 test help
 help test
 nano countdown.sh
+./countdown.sh
+./countdown.sh 2
+./countdown.sh 5
