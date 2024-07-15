@@ -124,3 +124,4 @@ man echo
 __vsc_prompt_cmd_original
 nano questionnaire.sh
 ./questionnaire.sh
+nano questionnaire.sh
