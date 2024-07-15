@@ -83,3 +83,4 @@ echo hello bash
 touch questionnaire.sh
 __vsc_prompt_cmd_original
 echo echo hello questionnaire >> questionnaire.sh
+sh questionnaire.sh
