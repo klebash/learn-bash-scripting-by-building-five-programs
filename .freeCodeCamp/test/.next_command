@@ -306,3 +306,6 @@ help
 __vsc_prompt_cmd_original
 clear
 help [[ expresion ]]
+clear
+test help
+help test
