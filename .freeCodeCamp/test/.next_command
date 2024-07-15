@@ -104,3 +104,4 @@ QUESTION1="What's your name?"
 QUESTION1="What's your name?"
 nano questionnaire.sh
 nano questionnaire.sh
+./questionnaire.sh
