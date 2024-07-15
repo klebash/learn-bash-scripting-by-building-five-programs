@@ -136,3 +136,6 @@ nano questionnaire.sh
 touch coutdown.sh
 ls --color=auto
 touch countdown.sh
+rm coutdown.sh
+ls --color=auto
+chmod +x countdown.sh
