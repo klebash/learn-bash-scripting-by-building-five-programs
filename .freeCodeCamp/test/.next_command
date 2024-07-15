@@ -141,3 +141,6 @@ ls --color=auto
 chmod +x countdown.sh
 which bash
 nano countdown.sh
+/.c
+/.countdown.sh
+./countdown.sh
