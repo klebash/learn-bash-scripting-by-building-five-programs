@@ -154,3 +154,4 @@ clear
 man if
 help if
 nano countdown.sh
+./countdown.sh arg1 arg2 arg3
