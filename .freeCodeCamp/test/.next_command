@@ -139,3 +139,5 @@ touch countdown.sh
 rm coutdown.sh
 ls --color=auto
 chmod +x countdown.sh
+which bash
+nano countdown.sh
