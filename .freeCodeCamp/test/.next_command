@@ -90,3 +90,5 @@ nano questionnaire.sh
 __vsc_prompt_cmd_original
 clear
 ./questionnaire.sh
+ls --color=auto -k
+ls --color=auto -l
