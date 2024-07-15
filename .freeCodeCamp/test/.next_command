@@ -158,3 +158,5 @@ nano countdown.sh
 clear
 ./countdown.sh
 nano countdown.sh
+nano countdown.sh
+./countdown.sh
