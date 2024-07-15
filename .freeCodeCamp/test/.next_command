@@ -85,3 +85,4 @@ __vsc_prompt_cmd_original
 echo echo hello questionnaire >> questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
+which bash
