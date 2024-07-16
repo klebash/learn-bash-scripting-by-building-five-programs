@@ -373,3 +373,8 @@ help test
 clear
 [[ -a countdown.sh ]]
 [[ -a bad_file.txt ]]
+ls --color=auto -l
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ -x bad_file.txt ]]
+[[ -x countdown.sh ]]
