@@ -399,3 +399,4 @@ ls --color=auto /
 ls --color=auto /bin
 clear
 man sleep
+sleep 3
