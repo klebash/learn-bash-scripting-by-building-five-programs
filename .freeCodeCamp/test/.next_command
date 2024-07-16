@@ -389,3 +389,5 @@ nano countdown.sh
 ./countdown.sh 1
 ./countdown.sh -3
 help
+clear
+nano countdown.sh
