@@ -372,3 +372,4 @@ __vsc_prompt_cmd_original
 help test
 clear
 [[ -a countdown.sh ]]
+[[ -a bad_file.txt ]]
