@@ -386,3 +386,4 @@ __vsc_prompt_cmd_original
 nano countdown.sh
 nano countdown.sh
 nano countdown.sh
+./countdown.sh 1
