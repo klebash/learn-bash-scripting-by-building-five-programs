@@ -344,3 +344,4 @@ nano countdown.sh
 ./countdown.sh
 nano countdown.sh
 [[ 4 -le 5 ]]
+echo $?
