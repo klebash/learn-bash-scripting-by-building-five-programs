@@ -370,3 +370,5 @@ clear
 man test
 __vsc_prompt_cmd_original
 help test
+clear
+[[ -a countdown.sh ]]
