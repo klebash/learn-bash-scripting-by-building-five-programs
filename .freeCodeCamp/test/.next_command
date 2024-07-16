@@ -396,3 +396,4 @@ nano countdown.sh
 help
 clear
 ls --color=auto /
+ls --color=auto /bin
