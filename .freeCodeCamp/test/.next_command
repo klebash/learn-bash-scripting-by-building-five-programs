@@ -345,3 +345,4 @@ nano countdown.sh
 nano countdown.sh
 [[ 4 -le 5 ]]
 echo $?
+[[ 4 -ge 5 ]]
