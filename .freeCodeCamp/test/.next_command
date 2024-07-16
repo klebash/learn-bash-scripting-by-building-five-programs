@@ -417,3 +417,7 @@ nano countdown.sh
 nano countdown.sh
 ./countdown.sh 3
 ./countdown.sh 1
+__vsc_prompt_cmd_original
+clear
+nano countdown.sh
+nano countdown.sh
