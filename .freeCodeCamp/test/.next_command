@@ -363,3 +363,10 @@ ls --color=auto
 clear
 ls --color=auto
 ls --color=auto -y
+test --help
+test help
+help
+clear
+man test
+__vsc_prompt_cmd_original
+help test
