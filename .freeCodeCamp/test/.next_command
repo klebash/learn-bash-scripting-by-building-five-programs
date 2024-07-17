@@ -530,3 +530,4 @@ echo15
 clear
 echo $(( I + 4 ))
 echo $I
+J=$(( I - 6 ))
