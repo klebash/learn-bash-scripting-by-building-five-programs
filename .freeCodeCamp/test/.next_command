@@ -654,3 +654,4 @@ nano fortune.sh
 help [[ expresion ]]
 __vsc_prompt_cmd_original
 [[ hello == hello ]]
+[[ hello == world ]]
