@@ -639,3 +639,6 @@ nano fortune.sh
 nano fortune.sh
 HELP
 help
+clear
+__vsc_prompt_cmd_original
+help function
