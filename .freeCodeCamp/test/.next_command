@@ -705,3 +705,4 @@ help type
 typr echo
 type echo
 type read
+type if
