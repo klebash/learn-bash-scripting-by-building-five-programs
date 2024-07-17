@@ -513,3 +513,4 @@ nano bingo.sh
 nano bingo.sh
 i=0
 I=0
+echo $I
