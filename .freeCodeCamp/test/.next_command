@@ -533,3 +533,5 @@ echo $I
 J=$(( I - 6 ))
 echo J
 echo $J
+clear
+echo $(( $J bingo.sh countdown.sh questionnaire.sh 5 + 25 ))
