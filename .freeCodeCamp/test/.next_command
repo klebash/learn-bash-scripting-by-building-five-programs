@@ -676,3 +676,4 @@ __vsc_prompt_cmd_original
 [[ $VAR == \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+nano fortune.sh
