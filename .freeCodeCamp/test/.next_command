@@ -714,3 +714,4 @@ type psql
 ./five.sh
 type five.sh
 type ./five.sh
+exit
