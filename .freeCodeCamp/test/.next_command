@@ -707,3 +707,6 @@ type echo
 type read
 type if
 type then
+help shell bultin
+help bash
+type bash
