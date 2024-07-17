@@ -685,3 +685,7 @@ nano fortune.sh
 ./fortune.sh
 touch five.sh
 chmod +x five.sh
+ls --color=auto
+clear
+nano f
+nano five.sh
