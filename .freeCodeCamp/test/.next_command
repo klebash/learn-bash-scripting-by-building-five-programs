@@ -697,3 +697,8 @@ nano five.sh
 clear
 ./five.sh
 help
+help typr
+type
+man type
+clear
+help type
