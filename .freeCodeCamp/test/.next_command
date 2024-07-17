@@ -624,3 +624,9 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 echo ${ARR[@]}
+__vsc_prompt_cmd_original
+ARR = ["a" "b" "c"]
+declare -p
+ARR=("a" "b" "c")
+declare -p
+declare -p ARR
