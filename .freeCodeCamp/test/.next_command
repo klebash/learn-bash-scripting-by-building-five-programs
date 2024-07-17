@@ -594,3 +594,4 @@ nano fortune.sh
 ARR=("a","b","c")
 ARR=("a""b""c")
 ARR=("a" "b" "c")
+echo ${ARR[1]}
