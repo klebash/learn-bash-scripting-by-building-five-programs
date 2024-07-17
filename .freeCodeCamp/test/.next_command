@@ -504,3 +504,4 @@ echo $LANG
 declare -p
 clear
 echo $RANDOM
+nano bingo.sh
