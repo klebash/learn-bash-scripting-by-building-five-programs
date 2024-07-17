@@ -520,3 +520,5 @@ echo $I
 help let
 clear
 (( I += 10 ))
+__vsc_prompt_cmd_original
+echo $I
