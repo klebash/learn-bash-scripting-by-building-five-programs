@@ -553,3 +553,9 @@ nano bingo.sh
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+clear
+__vsc_prompt_cmd_original
+nano bingo.sh
