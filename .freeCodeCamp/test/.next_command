@@ -540,3 +540,6 @@ echo $J
 __vsc_prompt_cmd_original
 clear
 declare -p
+clear
+declare
+declare -p J
