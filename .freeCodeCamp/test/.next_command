@@ -679,3 +679,5 @@ __vsc_prompt_cmd_original
 nano fortune.sh
 ./fortune.sh
 nano fortune.sh
+./H
+./fortune.sh
