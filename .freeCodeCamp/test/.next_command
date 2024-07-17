@@ -498,3 +498,6 @@ nano bingo.sh
 nano bingo.sh
 ./bingo.sh
 printenv
+clear
+echo LANG
+echo $LANG
