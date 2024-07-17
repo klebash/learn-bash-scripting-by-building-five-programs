@@ -522,3 +522,4 @@ clear
 (( I += 10 ))
 __vsc_prompt_cmd_original
 echo $I
+$(( I + 4 ))
