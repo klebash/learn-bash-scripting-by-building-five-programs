@@ -678,3 +678,4 @@ __vsc_prompt_cmd_original
 [[ test? =~ \?$ ]]
 nano fortune.sh
 ./fortune.sh
+nano fortune.sh
