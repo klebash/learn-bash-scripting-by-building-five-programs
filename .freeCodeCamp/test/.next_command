@@ -632,3 +632,4 @@ declare -p
 declare -p ARR
 clear
 nano fortune.sh
+./fortune.sh
