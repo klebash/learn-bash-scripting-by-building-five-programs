@@ -689,3 +689,7 @@ ls --color=auto
 clear
 nano f
 nano five.sh
+./five.sh
+da
+clear
+./five.sh
