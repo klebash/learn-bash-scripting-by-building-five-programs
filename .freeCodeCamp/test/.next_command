@@ -702,3 +702,5 @@ type
 man type
 clear
 help type
+typr echo
+type echo
