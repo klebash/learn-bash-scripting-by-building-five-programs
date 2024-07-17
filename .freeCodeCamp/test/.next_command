@@ -589,3 +589,4 @@ touch fortune.sh
 chmod +x fortune.sh
 clear
 nano fortune.sh
+./fortune.sh
