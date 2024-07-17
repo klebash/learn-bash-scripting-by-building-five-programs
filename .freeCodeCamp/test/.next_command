@@ -510,3 +510,6 @@ nano bingo.sh
 ./bingo.sh
 nano bingo.sh
 ./bingo.sh
+nano bingo.sh
+i=0
+I=0
