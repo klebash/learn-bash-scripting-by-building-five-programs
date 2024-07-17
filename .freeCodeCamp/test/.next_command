@@ -537,3 +537,6 @@ clear
 echo $(( $J bingo.sh countdown.sh questionnaire.sh 5 + 25 ))
 __vsc_prompt_cmd_original
 echo $J
+__vsc_prompt_cmd_original
+clear
+declare -p
