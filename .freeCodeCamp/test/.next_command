@@ -582,3 +582,7 @@ nano bingo.sh
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
+./bingo.sh
+clear
+touch fortune.sh
