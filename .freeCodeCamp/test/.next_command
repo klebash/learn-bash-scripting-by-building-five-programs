@@ -587,3 +587,5 @@ nano bingo.sh
 clear
 touch fortune.sh
 chmod +x fortune.sh
+clear
+nano fortune.sh
