@@ -711,3 +711,6 @@ help shell bultin
 help bash
 type bash
 type psql
+./five.sh
+type five.sh
+type ./five.sh
