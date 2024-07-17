@@ -517,3 +517,4 @@ echo $I
 (( I++ ))
 ehco $I
 echo $I
+help let
