@@ -710,3 +710,4 @@ type then
 help shell bultin
 help bash
 type bash
+type psql
