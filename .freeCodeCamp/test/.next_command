@@ -515,3 +515,5 @@ i=0
 I=0
 echo $I
 (( I++ ))
+ehco $I
+echo $I
