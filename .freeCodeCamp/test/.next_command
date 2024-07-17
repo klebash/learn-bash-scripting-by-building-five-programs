@@ -561,3 +561,5 @@ __vsc_prompt_cmd_original
 nano bingo.sh
 ./bingo.sh
 help let
+clear
+nano bingo.sh
