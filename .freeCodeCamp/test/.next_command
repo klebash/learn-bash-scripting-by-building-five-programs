@@ -590,3 +590,7 @@ chmod +x fortune.sh
 clear
 nano fortune.sh
 ./fortune.sh
+nano fortune.sh
+ARR=("a","b","c")
+ARR=("a""b""c")
+ARR=("a" "b" "c")
