@@ -650,3 +650,4 @@ clear
 help
 help until
 nano fortune.sh
+./fortune.sh
