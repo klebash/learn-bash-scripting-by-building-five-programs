@@ -543,3 +543,5 @@ declare -p
 clear
 declare
 declare -p J
+clear
+declare -p RANDOM
