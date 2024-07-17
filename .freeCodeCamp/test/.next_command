@@ -505,3 +505,6 @@ declare -p
 clear
 echo $RANDOM
 nano bingo.sh
+./B
+./bingo.sh
+./bingo.sh
