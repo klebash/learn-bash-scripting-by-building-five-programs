@@ -491,3 +491,5 @@ nano countdown.sh
 __vsc_prompt_cmd_original
 clear
 ./countdown.sh 5
+clear
+touch bingo.sh
