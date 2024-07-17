@@ -630,3 +630,5 @@ declare -p
 ARR=("a" "b" "c")
 declare -p
 declare -p ARR
+clear
+nano fortune.sh
