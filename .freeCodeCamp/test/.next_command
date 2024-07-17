@@ -648,3 +648,4 @@ nano fortune.sh
 ./fortune.sh
 clear
 help
+help until
